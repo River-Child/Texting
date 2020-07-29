@@ -1,1 +1,1 @@
-chapter 1 of chapter 3 including chapter 2 
+chapter 1 of 3 chapters including chapter 2 
